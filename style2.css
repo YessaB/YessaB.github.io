@@ -386,4 +386,7 @@ figure:hover figcaption{
   .container2{
     opacity: 0;
   }
+
+ ul{ 
+  list-style-type: none;}
   
