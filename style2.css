@@ -106,7 +106,9 @@ figure:hover figcaption{
 .container section  p{
     margin: 1.5rem 0 0 ;
 }
-
+.container section h3 {
+    color: #330066;
+}
 
 /* ------------ style pour les bouton -------------- */
 .btn{
